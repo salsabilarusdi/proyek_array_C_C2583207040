@@ -272,7 +272,7 @@ Setiap pengujian didokumentasikan menggunakan tangkapan layar sebagai bukti pela
 
 **Bukti Pengujian:**
 
-![UTS-1](UTS-1)
+![UTS-1.png](UTS-1.png)
 
 #### 2. Pengujian Transaksi Penjualan
 
@@ -287,7 +287,7 @@ Setiap pengujian didokumentasikan menggunakan tangkapan layar sebagai bukti pela
 
 **Bukti Pengujian:**
 
-![UTS-2](UTS-2)
+![UTS-2.png](UTS-2.png)
 
 #### 3. Pengujian Pembaruan Stok
 
@@ -301,7 +301,7 @@ Setiap pengujian didokumentasikan menggunakan tangkapan layar sebagai bukti pela
 
 **Bukti Pengujian:**
 
-![UTS-03](UTS-O3)
+![UTS-03.png](UTS-O3.png)
 
 #### 4. Pengujian Stok Tidak Mencukupi
 
@@ -314,7 +314,7 @@ Setiap pengujian didokumentasikan menggunakan tangkapan layar sebagai bukti pela
 
 **Bukti Pengujian:**
 
-![UTS-4](UTS-4)
+![UTS-4.png](UTS-4.png)
 
 #### 5. Pengujian Laporan Penjualan
 
@@ -327,7 +327,7 @@ Setiap pengujian didokumentasikan menggunakan tangkapan layar sebagai bukti pela
 
 **Bukti Pengujian:**
 
-![UTS-5](UTS-5)
+![UTS-5.png](UTS-5.png)
 
 #### 6. Pengujian Pengurutan Produk
 
@@ -341,7 +341,7 @@ Setiap pengujian didokumentasikan menggunakan tangkapan layar sebagai bukti pela
 
 **Bukti Pengujian:**
 
-![UTS-6](UTS-6)
+![UTS-6.png](UTS-6.png)
 
 #### 7. Pengujian Pencarian Produk dan Pengecekan Stok
 
@@ -361,7 +361,7 @@ Setiap pengujian didokumentasikan menggunakan tangkapan layar sebagai bukti pela
 
 **Bukti Pengujian:**
 
-![UTS-8](UTS-8)
+![UTS-8.png](UTS-8.png)
 
 ## 9. Struktur Repository GitHub
 
