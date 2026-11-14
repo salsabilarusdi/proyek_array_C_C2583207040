@@ -6,9 +6,9 @@ Aplikasi berbasis bahasa C untuk monitoring stok, pengelolaan produk, transaksi 
 
 | Keterangan | Informasi |
 |---|---|
-| Nama Lengkap | [Salsabila Rusdi] |
-| NIM | [C2583207040] |
-| Kelas | [PTI3A] |
+| Nama Lengkap | Salsabila Rusdi |
+| NIM | C2583207040 |
+| Kelas | PTI3A |
 | Program Studi | Pendidikan Teknologi Informasi |
 | Fakultas | Fakultas Keguruan dan Ilmu Pendidikan |
 | Universitas | Universitas Muhammadiyah Tasikmalaya |
@@ -301,7 +301,7 @@ Setiap pengujian didokumentasikan menggunakan tangkapan layar sebagai bukti pela
 
 **Bukti Pengujian:**
 
-![UTS-03.png](UTS-O3.png)
+![UTS-03.png](UTS-03.png)
 
 #### 4. Pengujian Stok Tidak Mencukupi
 
